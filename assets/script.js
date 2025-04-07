@@ -26,12 +26,12 @@ const text = document.querySelector(".arrow p");
 let arrowRight = document.querySelector(".arrow_right");
 
 arrowRight.addEventListener("click", () => {
-	console.log("test eventListener au clic droit");})
+	})
 
 let arrowLeft = document.querySelector(".arrow_left");
 
 arrowLeft.addEventListener("click", () =>{
-	console.log("test eventListener au clic gauche");})
+})
 
 	//étape 3
 
