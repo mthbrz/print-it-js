@@ -14,6 +14,9 @@ const slides = [
 	{
 		"image":"slide4.png",
 		"tagLine":"Autocollants <span>avec découpe laser sur mesure</span>"
+	},
+	{ "image":"slide5.jpg",
+		"tagLine":"Impression de vos supports de communication <span>en petite et grande série</span>"
 	}
 ]
 
